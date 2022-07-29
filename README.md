@@ -1,6 +1,6 @@
 # WISECITY 
 
-Live responsive website:(https://visthruth21.github.io/Wisecity/)
+Live responsive website:()
 
 #
 
